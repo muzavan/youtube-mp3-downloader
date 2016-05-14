@@ -1,0 +1,28 @@
+{
+  "name": "youtube-mp3-downloader",
+  "version": "1.0.0",
+  "description": "Download audio from youtube. Using youtube search and youtube-mp3",
+  "main": "search.js",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzavan/youtube-mp3-downloader.git"
+  },
+  "keywords": [
+    "youtube",
+    "mp3",
+    "mp3-download"
+  ],
+  "author": "Muhammad Reza Irvanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzavan/youtube-mp3-downloader/issues"
+  },
+  "homepage": "https://github.com/muzavan/youtube-mp3-downloader#readme"
+}
